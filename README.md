@@ -56,7 +56,7 @@ https://project-apas.streamlit.app/
     - 이 두가지 기능을 적용하여 데이터셋에 투영시켜보면, 아래 그림과 같이 filter 가 도출된다.
     - 이를 8개의 영역으로 나누어 각각의 위험 순위를 메겼고, 그중 가장 위험하다고 여겨지는 물체 한개에 대해서만 tts 로 유저에게 제공하였다.
     - 같은 레벨에 객체가 있을 때에는 우리나라가 우측통행임을 고려하여 중앙 > 왼쪽 > 오른쪽 순으로 우선순위를 두었다.
-<img width="530" alt="스크린샷 2023-08-17 오후 9 59 06" src="https://github.com/Yang-jaemin/Advanced-Pedestrian-Assistance-System/assets/108872973/a7397ce0-e071-4c68-be04-3063f6579fba">
+<img width="1300" alt="스크린샷 2023-08-17 오후 9 59 06" src="https://github.com/Yang-jaemin/Advanced-Pedestrian-Assistance-System/assets/108872973/a7397ce0-e071-4c68-be04-3063f6579fba">
 <br/>
 
 <img width="1300" alt="스크린샷 2023-08-17 오후 9 54 39" src="https://github.com/Yang-jaemin/Advanced-Pedestrian-Assistance-System/assets/108872973/ba75e596-4abb-4d7b-a77b-91706537e7d7">
