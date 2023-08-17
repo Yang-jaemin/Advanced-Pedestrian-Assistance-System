@@ -53,7 +53,7 @@ https://project-apas.streamlit.app/
     - 위험도를 분석하여 가장 위험도가 높은 물체를 유저에게 tts로 알려준다.
     - 탐지된 사람의 수에 따라 warning mode와 normal mode로 나누어 추가적인 정보를 제공하였다.
   
-<img width="575" alt="스크린샷 2023-08-17 오후 9 52 26" src="https://github.com/Yang-jaemin/Advanced-Pedestrian-Assistance-System/assets/108872973/e666bff5-8133-4504-bbba-05ad85c58c79">
+<img width="1344" alt="스크린샷 2023-08-17 오후 9 52 26" src="https://github.com/Yang-jaemin/Advanced-Pedestrian-Assistance-System/assets/108872973/e666bff5-8133-4504-bbba-05ad85c58c79">
 
 <br/>
 
